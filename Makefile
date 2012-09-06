@@ -12,6 +12,7 @@ SUBDIRS  = lib9\
 	cat\
 	cleanname\
 	cmp\
+	cp\
 	date\
 	dc\
 	du\
