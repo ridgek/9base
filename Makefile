@@ -59,6 +59,7 @@ SUBDIRS  = lib9\
 	unicode\
 	uniq\
 	unutf\
+	urlencode\
 	wc
 
 all:
